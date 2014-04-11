@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "count_digits_range", "count_digits_range\count_digits_range.vcxproj", "{16A53FD9-C981-4EB7-A211-3CBD5C49534F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16A53FD9-C981-4EB7-A211-3CBD5C49534F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{16A53FD9-C981-4EB7-A211-3CBD5C49534F}.Debug|Win32.Build.0 = Debug|Win32
+		{16A53FD9-C981-4EB7-A211-3CBD5C49534F}.Release|Win32.ActiveCfg = Release|Win32
+		{16A53FD9-C981-4EB7-A211-3CBD5C49534F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

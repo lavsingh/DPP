@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cc_card_bags_coins", "cc_card_bags_coins\cc_card_bags_coins.vcxproj", "{4D276C47-7F99-4CC2-A29A-0E2C8B2B7DD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D276C47-7F99-4CC2-A29A-0E2C8B2B7DD8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4D276C47-7F99-4CC2-A29A-0E2C8B2B7DD8}.Debug|Win32.Build.0 = Debug|Win32
+		{4D276C47-7F99-4CC2-A29A-0E2C8B2B7DD8}.Release|Win32.ActiveCfg = Release|Win32
+		{4D276C47-7F99-4CC2-A29A-0E2C8B2B7DD8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

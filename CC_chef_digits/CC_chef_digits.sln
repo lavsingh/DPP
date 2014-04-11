@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CC_chef_digits", "CC_chef_digits\CC_chef_digits.vcxproj", "{135ABCE5-7D92-4F7F-BD53-FF8B67060587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{135ABCE5-7D92-4F7F-BD53-FF8B67060587}.Debug|Win32.ActiveCfg = Debug|Win32
+		{135ABCE5-7D92-4F7F-BD53-FF8B67060587}.Debug|Win32.Build.0 = Debug|Win32
+		{135ABCE5-7D92-4F7F-BD53-FF8B67060587}.Release|Win32.ActiveCfg = Release|Win32
+		{135ABCE5-7D92-4F7F-BD53-FF8B67060587}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
